@@ -6,7 +6,7 @@ body {
     padding: 12px;
     box-sizing: border-box;
     color: #333;
-    background-color: rgba(255, 255, 128, .5) /* RGBA value */ !important;
+    background-color: rgba(29, 161, 242, .5) /* RGBA value */ !important;
 }
 
 body,
@@ -65,7 +65,7 @@ a:hover {
 }
 
 p {
-    font-weight: 200;
+    font-weight: 300;
     font-size: 20px;
 }
 
@@ -120,6 +120,7 @@ footer {
     bottom: 0px;
     padding: 40px 0;
     width: 600px;
+    background-color: rgba(25, 138, 207, 0.5) /* RGBA value */ !important;
 }
 .bronze {
     color: #cd7f32;
@@ -139,4 +140,8 @@ iframe {
     
     display: block;
     margin: auto;
+}
+
+.bigger-icon {
+    font-size: 32px !important;
 }
