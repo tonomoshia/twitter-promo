@@ -6,7 +6,7 @@ body {
     padding: 12px;
     box-sizing: border-box;
     color: #333;
-    background-color: rgba(29, 161, 242, .5) /* RGBA value */ !important;
+    background-color: #fff) !important;
 }
 
 body,
@@ -144,4 +144,8 @@ iframe {
 
 .bigger-icon {
     font-size: 32px !important;
+}
+
+.bullet {
+    background-color: #5ED9FF !important;
 }
