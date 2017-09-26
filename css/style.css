@@ -1,5 +1,5 @@
 body {
-    font-family: Franklin Gothic Book, Source Sans Pro, Helvetica Neue, sans-serif;
+    font-family: Franklin Gothic Book, Source Sans Pro, Helvetica Neue, sans-serif !important;
     margin: 0 auto;
     background: #efefef;
     line-height: 1.8em;
@@ -148,4 +148,8 @@ iframe {
 
 .bullet {
     background-color: #5ED9FF !important;
+}
+
+.jumbotron {
+    font-family: "Courier", serif !important;
 }
