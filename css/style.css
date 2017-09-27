@@ -112,12 +112,10 @@ p {
     padding-right: 40px;
 */
 
-
-}
 footer {
     margin: 0 auto;
     position: absolute;
-    bottom: 0px;
+    bottom: 0 px;
     padding: 40px 0;
     width: 600px;
     background-color: rgba(25, 138, 207, 0.5) /* RGBA value */ !important;
